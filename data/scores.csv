@@ -1,0 +1,611 @@
+"","Year","Date","Schl","Rk.","Opp","Rk..1","PTS","OPP","MOV"
+"1","2017-18","3/3/2018","DePaul",NA,"Xavier",3,62,65,-3
+"2","2017-18","3/3/2018","Florida",NA,"Kentucky",23,80,67,13
+"3","2017-18","3/3/2018","Texas",NA,"West Virginia",20,87,79,8
+"4","2017-18","3/3/2018","Syracuse",NA,"Clemson",18,55,52,3
+"5","2017-18","3/3/2018","Oklahoma State",NA,"Kansas",6,82,64,18
+"6","2017-18","3/3/2018","San Diego State",NA,"Nevada",21,79,74,5
+"7","2017-18","3/2/2018","Davidson",NA,"Rhode Island",17,63,61,2
+"8","2017-18","3/1/2018","Central Florida",NA,"Wichita State",11,71,75,-4
+"9","2017-18","3/1/2018","Louisville",NA,"Virginia",1,66,67,-1
+"10","2017-18","3/1/2018","Tulane",NA,"Cincinnati",10,49,78,-29
+"11","2017-18","2/28/2018","Seton Hall",NA,"Villanova",4,68,69,-1
+"12","2017-18","2/28/2018","Southern Methodist",NA,"Houston",25,56,69,-13
+"13","2017-18","2/28/2018","Nevada-Las Vegas",NA,"Nevada",21,75,101,-26
+"14","2017-18","2/27/2018","Mississippi State",NA,"Tennessee",16,54,76,-22
+"15","2017-18","2/27/2018","Arkansas",NA,"Auburn",14,91,82,9
+"16","2017-18","2/26/2018","Virginia Tech",NA,"Duke",5,64,63,1
+"17","2017-18","2/25/2018","Wisconsin",NA,"Michigan State",2,63,68,-5
+"18","2017-18","2/25/2018","North Carolina State",NA,"Florida State",25,92,72,20
+"19","2017-18","2/24/2018","Maryland",NA,"Michigan",17,61,85,-24
+"20","2017-18","2/24/2018","Mississippi",NA,"Tennessee",19,65,73,-8
+"21","2017-18","2/24/2018","Creighton",NA,"Villanova",3,89,83,6
+"22","2017-18","2/24/2018","Southern Methodist",NA,"Wichita State",13,78,84,-6
+"23","2017-18","2/24/2018","Pittsburgh",NA,"Virginia",1,37,66,-29
+"24","2017-18","2/24/2018","Brigham Young",NA,"Gonzaga",6,65,79,-14
+"25","2017-18","2/24/2018","Florida",NA,"Auburn",12,72,66,6
+"26","2017-18","2/24/2018","Oregon",NA,"Arizona",14,98,93,5
+"27","2017-18","2/23/2018","Indiana",NA,"Ohio State",16,78,80,-2
+"28","2017-18","2/22/2018","Illinois",NA,"Purdue",9,86,93,-7
+"29","2017-18","2/22/2018","Memphis",NA,"Houston",23,91,85,6
+"30","2017-18","2/22/2018","Oregon State",NA,"Arizona",14,65,75,-10
+"31","2017-18","2/22/2018","San Diego",NA,"Gonzaga",6,72,77,-5
+"32","2017-18","2/21/2018","Georgetown",NA,"Xavier",4,77,89,-12
+"33","2017-18","2/21/2018","Oklahoma State",NA,"Texas Tech",6,79,71,8
+"34","2017-18","2/21/2018","Penn State",NA,"Michigan",17,63,72,-9
+"35","2017-18","2/21/2018","Syracuse",NA,"North Carolina",10,74,78,-4
+"36","2017-18","2/21/2018","Virginia Tech",NA,"Clemson",15,65,58,7
+"37","2017-18","2/20/2018","Baylor",NA,"West Virginia",21,60,71,-11
+"38","2017-18","2/20/2018","La Salle",NA,"Rhode Island",18,93,95,-2
+"39","2017-18","2/17/2018","Northwestern",NA,"Michigan State",2,60,65,-5
+"40","2017-18","2/17/2018","South Carolina",NA,"Auburn",10,84,75,9
+"41","2017-18","2/17/2018","Arkansas",NA,"Texas A&M",21,94,75,19
+"42","2017-18","2/17/2018","Georgia",NA,"Tennessee",18,73,62,11
+"43","2017-18","2/17/2018","Utah State",NA,"Nevada",24,87,93,-6
+"44","2017-18","2/17/2018","Baylor",NA,"Texas Tech",7,59,57,2
+"45","2017-18","2/17/2018","Louisville",NA,"North Carolina",14,76,93,-17
+"46","2017-18","2/17/2018","Portland",NA,"Saint Mary's (CA)",15,61,73,-12
+"47","2017-18","2/16/2018","St. Bonaventure",NA,"Rhode Island",16,77,74,3
+"48","2017-18","2/15/2018","Houston",NA,"Cincinnati",5,67,62,5
+"49","2017-18","2/15/2018","Wisconsin",NA,"Purdue",6,57,53,4
+"50","2017-18","2/15/2018","Penn State",NA,"Ohio State",8,79,56,23
+"51","2017-18","2/15/2018","San Francisco",NA,"Saint Mary's (CA)",15,70,63,7
+"52","2017-18","2/14/2018","Florida State",NA,"Clemson",11,81,79,2
+"53","2017-18","2/14/2018","Providence",NA,"Villanova",3,76,71,5
+"54","2017-18","2/14/2018","Boise State",NA,"Nevada",24,72,77,-5
+"55","2017-18","2/13/2018","Iowa State",NA,"Kansas",13,77,83,-6
+"56","2017-18","2/13/2018","Missouri",NA,"Texas A&M",21,62,58,4
+"57","2017-18","2/13/2018","Miami (FL)",NA,"Virginia",1,50,59,-9
+"58","2017-18","2/13/2018","Minnesota",NA,"Michigan State",2,57,87,-30
+"59","2017-18","2/11/2018","Wisconsin",NA,"Michigan",20,72,83,-11
+"60","2017-18","2/11/2018","Southern Methodist",NA,"Cincinnati",6,51,76,-25
+"61","2017-18","2/11/2018","Georgia Tech",NA,"Duke",9,69,80,-11
+"62","2017-18","2/10/2018","Baylor",NA,"Kansas",10,80,64,16
+"63","2017-18","2/10/2018","Boston College",NA,"Miami (FL)",25,72,70,2
+"64","2017-18","2/10/2018","Creighton",NA,"Xavier",5,71,72,-1
+"65","2017-18","2/10/2018","Iowa State",NA,"Oklahoma",17,88,80,8
+"66","2017-18","2/10/2018","North Carolina State",NA,"North Carolina",21,89,96,-7
+"67","2017-18","2/10/2018","Georgia",NA,"Auburn",8,61,78,-17
+"68","2017-18","2/10/2018","Alabama",NA,"Tennessee",15,78,50,28
+"69","2017-18","2/10/2018","Kansas State",NA,"Texas Tech",7,47,66,-19
+"70","2017-18","2/10/2018","Texas A&M",NA,"Kentucky",24,85,74,11
+"71","2017-18","2/8/2018","Loyola Marymount",NA,"Saint Mary's (CA)",11,62,83,-21
+"72","2017-18","2/8/2018","Pacific",NA,"Gonzaga",12,61,71,-10
+"73","2017-18","2/7/2018","Florida State",NA,"Virginia",2,55,59,-4
+"74","2017-18","2/6/2018","Butler",NA,"Xavier",5,93,98,-5
+"75","2017-18","2/6/2018","Northwestern",NA,"Michigan",20,61,52,9
+"76","2017-18","2/6/2018","Iowa",NA,"Michigan State",4,93,96,-3
+"77","2017-18","2/6/2018","Memphis",NA,"Wichita State",22,65,85,-20
+"78","2017-18","2/4/2018","Washington State",NA,"Arizona State",25,78,88,-10
+"79","2017-18","2/3/2018","Connecticut",NA,"Cincinnati",8,57,65,-8
+"80","2017-18","2/3/2018","St. John's (NY)",NA,"Duke",4,81,77,4
+"81","2017-18","2/3/2018","Missouri",NA,"Kentucky",21,69,60,9
+"82","2017-18","2/3/2018","Texas Christian",NA,"Texas Tech",10,71,83,-12
+"83","2017-18","2/3/2018","Wake Forest",NA,"Clemson",20,67,75,-8
+"84","2017-18","2/3/2018","Rutgers",NA,"Purdue",3,76,78,-2
+"85","2017-18","2/3/2018","Syracuse",NA,"Virginia",2,44,59,-15
+"86","2017-18","2/3/2018","Texas",NA,"Oklahoma",12,79,74,5
+"87","2017-18","2/3/2018","Indiana",NA,"Michigan State",5,60,63,-3
+"88","2017-18","2/3/2018","San Diego",NA,"Saint Mary's (CA)",13,62,65,-3
+"89","2017-18","2/3/2018","Washington",NA,"Arizona",9,78,75,3
+"90","2017-18","2/2/2018","Virginia Commonwealth",NA,"Rhode Island",22,68,81,-13
+"91","2017-18","2/1/2018","Temple",NA,"Wichita State",16,81,79,2
+"92","2017-18","2/1/2018","Washington",NA,"Arizona State",25,68,64,4
+"93","2017-18","1/31/2018","Iowa State",NA,"West Virginia",15,93,77,16
+"94","2017-18","1/31/2018","Washington State",NA,"Arizona",9,72,100,-28
+"95","2017-18","1/30/2018","Massachusetts",NA,"Rhode Island",22,83,85,-2
+"96","2017-18","1/30/2018","Georgia",NA,"Florida",23,72,60,12
+"97","2017-18","1/30/2018","St. John's (NY)",NA,"Xavier",6,68,73,-5
+"98","2017-18","1/30/2018","Mississippi",NA,"Auburn",11,70,79,-9
+"99","2017-18","1/29/2018","Kansas State",NA,"Kansas",7,56,70,-14
+"100","2017-18","1/28/2018","Marquette",NA,"Villanova",1,82,85,-3
+"101","2017-18","1/28/2018","Maryland",NA,"Michigan State",6,68,74,-6
+"102","2017-18","1/28/2018","Indiana",NA,"Purdue",3,67,74,-7
+"103","2017-18","1/28/2018","Georgia Tech",NA,"Clemson",18,70,72,-2
+"104","2017-18","1/27/2018","South Carolina",NA,"Texas Tech",14,63,70,-7
+"105","2017-18","1/27/2018","Alabama",NA,"Oklahoma",12,80,73,7
+"106","2017-18","1/27/2018","Iowa State",NA,"Tennessee",22,45,68,-23
+"107","2017-18","1/27/2018","Memphis",NA,"Cincinnati",9,48,62,-14
+"108","2017-18","1/25/2018","Portland",NA,"Gonzaga",15,79,95,-16
+"109","2017-18","1/24/2018","Fordham",NA,"Rhode Island",24,58,78,-20
+"110","2017-18","1/24/2018","Missouri",NA,"Auburn",19,73,91,-18
+"111","2017-18","1/24/2018","Wyoming",NA,"Nevada",23,104,103,1
+"112","2017-18","1/23/2018","Wake Forest",NA,"Duke",4,70,84,-14
+"113","2017-18","1/22/2018","Virginia Tech",NA,"North Carolina",10,80,69,11
+"114","2017-18","1/22/2018","Illinois",NA,"Michigan State",6,74,87,-13
+"115","2017-18","1/22/2018","Texas Christian",NA,"West Virginia",7,82,73,9
+"116","2017-18","1/21/2018","North Carolina State",NA,"Miami (FL)",25,81,86,-5
+"117","2017-18","1/21/2018","Wake Forest",NA,"Virginia",2,49,59,-10
+"118","2017-18","1/20/2018","Connecticut",NA,"Villanova",1,61,81,-20
+"119","2017-18","1/20/2018","Houston",NA,"Wichita State",7,73,59,14
+"120","2017-18","1/20/2018","Iowa",NA,"Purdue",3,64,87,-23
+"121","2017-18","1/20/2018","Iowa State",NA,"Texas Tech",8,70,52,18
+"122","2017-18","1/20/2018","Oklahoma State",NA,"Oklahoma",4,83,81,2
+"123","2017-18","1/20/2018","Kansas State",NA,"Texas Christian",24,73,68,5
+"124","2017-18","1/20/2018","Stanford",NA,"Arizona",14,71,73,-2
+"125","2017-18","1/20/2018","South Carolina",NA,"Tennessee",21,63,70,-7
+"126","2017-18","1/20/2018","Santa Clara",NA,"Gonzaga",13,60,75,-15
+"127","2017-18","1/20/2018","University of California",NA,"Arizona State",16,73,81,-8
+"128","2017-18","1/18/2018","Georgia Tech",NA,"Virginia",2,48,64,-16
+"129","2017-18","1/18/2018","Nebraska",NA,"Michigan",23,72,52,20
+"130","2017-18","1/17/2018","Georgetown",NA,"Villanova",1,56,88,-32
+"131","2017-18","1/17/2018","Alabama",NA,"Auburn",17,76,71,5
+"132","2017-18","1/17/2018","Creighton",NA,"Seton Hall",19,80,63,17
+"133","2017-18","1/17/2018","Texas",NA,"Texas Tech",8,67,58,9
+"134","2017-18","1/17/2018","University of California",NA,"Arizona",14,58,79,-21
+"135","2017-18","1/17/2018","Missouri",NA,"Tennessee",21,59,55,4
+"136","2017-18","1/17/2018","Northwestern",NA,"Ohio State",22,65,71,-6
+"137","2017-18","1/17/2018","Stanford",NA,"Arizona State",16,86,77,9
+"138","2017-18","1/16/2018","Central Florida",NA,"Cincinnati",12,38,49,-11
+"139","2017-18","1/16/2018","Kansas State",NA,"Oklahoma",4,87,69,18
+"140","2017-18","1/16/2018","South Carolina",NA,"Kentucky",18,76,68,8
+"141","2017-18","1/13/2018","Minnesota",NA,"Purdue",5,47,81,-34
+"142","2017-18","1/13/2018","Mississippi State",NA,"Auburn",22,68,76,-8
+"143","2017-18","1/13/2018","Vanderbilt",NA,"Kentucky",21,67,74,-7
+"144","2017-18","1/13/2018","Notre Dame",NA,"North Carolina",20,68,69,-1
+"145","2017-18","1/13/2018","South Florida",NA,"Cincinnati",14,55,78,-23
+"146","2017-18","1/13/2018","Tulsa",NA,"Wichita State",6,69,72,-3
+"147","2017-18","1/13/2018","St. John's (NY)",NA,"Villanova",1,71,78,-7
+"148","2017-18","1/13/2018","San Francisco",NA,"Gonzaga",15,65,75,-10
+"149","2017-18","1/11/2018","East Carolina",NA,"Wichita State",6,60,95,-35
+"150","2017-18","1/11/2018","North Carolina State",NA,"Clemson",19,78,77,1
+"151","2017-18","1/10/2018","Pittsburgh",NA,"Duke",7,52,87,-35
+"152","2017-18","1/10/2018","Texas",NA,"Texas Christian",16,99,98,1
+"153","2017-18","1/9/2018","Marquette",NA,"Seton Hall",13,84,64,20
+"154","2017-18","1/9/2018","Michigan",NA,"Purdue",5,69,70,-1
+"155","2017-18","1/9/2018","Vanderbilt",NA,"Tennessee",24,84,92,-8
+"156","2017-18","1/7/2018","Ohio State",NA,"Michigan State",1,80,64,16
+"157","2017-18","1/7/2018","Utah",NA,"Arizona State",4,77,80,-3
+"158","2017-18","1/6/2018","Providence",NA,"Xavier",5,81,72,9
+"159","2017-18","1/6/2018","Butler",NA,"Seton Hall",21,87,90,-3
+"160","2017-18","1/6/2018","Colorado",NA,"Arizona",14,80,77,3
+"161","2017-18","1/6/2018","Auburn",NA,"Arkansas",22,88,77,11
+"162","2017-18","1/6/2018","North Carolina State",NA,"Duke",2,96,85,11
+"163","2017-18","1/6/2018","Loyola Marymount",NA,"Gonzaga",19,66,85,-19
+"164","2017-18","1/4/2018","Colorado",NA,"Arizona State",4,90,81,9
+"165","2017-18","1/4/2018","Temple",NA,"Cincinnati",19,53,55,-2
+"166","2017-18","1/4/2018","Utah",NA,"Arizona",14,82,94,-12
+"167","2017-18","1/4/2018","Pepperdine",NA,"Gonzaga",19,59,89,-30
+"168","2017-18","1/3/2018","Boston College",NA,"Clemson",25,70,74,-4
+"169","2017-18","1/3/2018","Louisiana State",NA,"Kentucky",17,71,74,-3
+"170","2017-18","1/3/2018","Georgia Tech",NA,"Miami (FL)",15,64,54,10
+"171","2017-18","1/3/2018","Virginia Tech",NA,"Virginia",8,52,78,-26
+"172","2017-18","1/2/2018","Baylor",NA,"Texas Christian",16,78,81,-3
+"173","2017-18","1/2/2018","Mississippi State",NA,"Arkansas",22,78,75,3
+"174","2017-18","1/1/2018","Kansas State",NA,"West Virginia",6,69,77,-8
+"175","2017-18","12/30/2017","Connecticut",NA,"Wichita State",8,62,72,-10
+"176","2017-18","12/30/2017","Arkansas",NA,"Tennessee",19,95,93,2
+"177","2017-18","12/30/2017","Butler",NA,"Villanova",1,101,93,8
+"178","2017-18","12/30/2017","Pittsburgh",NA,"Miami (FL)",15,53,67,-14
+"179","2017-18","12/30/2017","Alabama",NA,"Texas A&M",5,79,57,22
+"180","2017-18","12/29/2017","Oklahoma State",NA,"West Virginia",7,79,85,-6
+"181","2017-18","12/29/2017","Texas",NA,"Kansas",11,86,92,-6
+"182","2017-18","12/27/2017","DePaul",NA,"Villanova",1,85,103,-18
+"183","2017-18","12/27/2017","Marquette",NA,"Xavier",6,87,91,-4
+"184","2017-18","12/23/2017","Hawaii",NA,"Miami (FL)",6,57,75,-18
+"185","2017-18","12/23/2017","Wake Forest",NA,"Tennessee",21,60,79,-19
+"186","2017-18","12/22/2017","Northern Iowa",NA,"Xavier",9,67,77,-10
+"187","2017-18","12/21/2017","San Diego State",NA,"Gonzaga",12,72,70,2
+"188","2017-18","12/21/2017","Stanford",NA,"Kansas",14,54,75,-21
+"189","2017-18","12/16/2017","George Washington",NA,"Miami (FL)",6,50,59,-9
+"190","2017-18","12/16/2017","Rutgers",NA,"Seton Hall",15,71,65,6
+"191","2017-18","12/16/2017","UCLA",NA,"Cincinnati",25,63,77,-14
+"192","2017-18","12/16/2017","Nebraska",NA,"Kansas",13,72,73,-1
+"193","2017-18","12/16/2017","New Mexico",NA,"Arizona",23,73,89,-16
+"194","2017-18","12/13/2017","Temple",NA,"Villanova",1,67,87,-20
+"195","2017-18","12/10/2017","Washington",NA,"Gonzaga",12,70,97,-27
+"196","2017-18","12/9/2017","Boston College",NA,"Duke",1,89,84,5
+"197","2017-18","12/9/2017","Oklahoma State",NA,"Wichita State",6,66,78,-12
+"198","2017-18","12/9/2017","Arkansas",NA,"Minnesota",14,95,79,16
+"199","2017-18","12/9/2017","Delaware",NA,"Notre Dame",9,68,92,-24
+"200","2017-18","12/9/2017","Pittsburgh",NA,"West Virginia",18,60,69,-9
+"201","2017-18","12/5/2017","Rutgers",NA,"Michigan State",3,52,62,-10
+"202","2017-18","12/5/2017","Texas Tech",NA,"Nevada",22,82,76,6
+"203","2017-18","12/5/2017","Nebraska",NA,"Minnesota",14,78,68,10
+"204","2017-18","12/2/2017","Saint Joseph's",NA,"Villanova",4,53,94,-41
+"205","2017-18","12/2/2017","Southern Methodist",NA,"Southern California",14,72,55,17
+"206","2017-18","11/29/2017","Indiana",NA,"Duke",1,81,91,-10
+"207","2017-18","11/28/2017","Purdue",NA,"Louisville",17,66,57,9
+"208","2017-18","11/23/2017","Harvard",NA,"Saint Mary's (CA)",21,71,89,-18
+"209","2017-18","11/20/2017","Stanford",NA,"North Carolina",9,72,96,-24
+"210","2017-18","11/19/2017","San Jose State",NA,"Saint Mary's (CA)",21,61,79,-18
+"211","2017-18","11/19/2017","Vanderbilt",NA,"Southern California",10,89,93,-4
+"212","2017-18","11/16/2017","Wisconsin",NA,"Xavier",15,70,80,-10
+"213","2017-18","11/14/2017","Marquette",NA,"Purdue",19,71,86,-15
+"214","2017-18","11/13/2017","Providence",NA,"Minnesota",14,74,86,-12
+"215","2017-18","11/11/2017","DePaul",NA,"Notre Dame",14,58,72,-14
+"216","2016-17","3/5/2017","Connecticut",NA,"Cincinnati",18,47,67,-20
+"217","2016-17","3/5/2017","Northwestern",NA,"Purdue",16,65,69,-4
+"218","2016-17","3/4/2017","Arizona State",NA,"Arizona",7,60,73,-13
+"219","2016-17","3/4/2017","Georgetown",NA,"Villanova",2,55,81,-26
+"220","2016-17","3/4/2017","Oklahoma State",NA,"Kansas",1,85,90,-5
+"221","2016-17","3/4/2017","Oregon State",NA,"Oregon",6,59,80,-21
+"222","2016-17","3/4/2017","Texas",NA,"Baylor",11,64,75,-11
+"223","2016-17","3/4/2017","Texas A&M",NA,"Kentucky",9,63,71,-8
+"224","2016-17","3/4/2017","Vanderbilt",NA,"Florida",12,73,71,2
+"225","2016-17","3/1/2017","Wake Forest",NA,"Louisville",8,88,81,7
+"226","2016-17","2/26/2017","Central Florida",NA,"Cincinnati",15,53,49,4
+"227","2016-17","2/26/2017","Michigan State",NA,"Wisconsin",16,84,74,10
+"228","2016-17","2/26/2017","Xavier",NA,"Butler",22,79,88,-9
+"229","2016-17","2/25/2017","Clemson",NA,"Florida State",19,74,76,-2
+"230","2016-17","2/25/2017","Connecticut",NA,"Southern Methodist",17,61,69,-8
+"231","2016-17","2/25/2017","Iowa State",NA,"Baylor",9,72,69,3
+"232","2016-17","2/25/2017","Miami (FL)",NA,"Duke",10,55,50,5
+"233","2016-17","2/25/2017","Michigan",NA,"Purdue",14,82,70,12
+"234","2016-17","2/25/2017","Missouri State",NA,"Wichita State",25,67,86,-19
+"235","2016-17","2/25/2017","North Carolina State",NA,"Virginia",18,55,70,-15
+"236","2016-17","2/25/2017","Pittsburgh",NA,"North Carolina",8,67,85,-18
+"237","2016-17","2/25/2017","Stanford",NA,"Oregon",6,73,75,-2
+"238","2016-17","2/25/2017","Texas",NA,"Kansas",3,67,77,-10
+"239","2016-17","2/25/2017","Texas Christian",NA,"West Virginia",12,60,61,-1
+"240","2016-17","2/23/2017","Arizona State",NA,"UCLA",5,75,87,-12
+"241","2016-17","2/23/2017","Ohio State",NA,"Wisconsin",16,83,73,10
+"242","2016-17","2/23/2017","Pepperdine",NA,"Saint Mary's (CA)",20,49,78,-29
+"243","2016-17","2/23/2017","San Diego",NA,"Gonzaga",1,38,96,-58
+"244","2016-17","2/22/2017","University of California",NA,"Oregon",6,65,68,-3
+"245","2016-17","2/22/2017","Syracuse",NA,"Duke",10,78,75,3
+"246","2016-17","2/21/2017","Missouri",NA,"Kentucky",11,62,72,-10
+"247","2016-17","2/21/2017","Penn State",NA,"Purdue",14,70,74,-4
+"248","2016-17","2/18/2017","Brigham Young",NA,"Saint Mary's (CA)",22,57,70,-13
+"249","2016-17","2/18/2017","Georgia",NA,"Kentucky",13,77,82,-5
+"250","2016-17","2/18/2017","Houston",NA,"Southern Methodist",19,66,76,-10
+"251","2016-17","2/18/2017","Mississippi State",NA,"Florida",15,52,57,-5
+"252","2016-17","2/18/2017","North Carolina State",NA,"Notre Dame",25,72,81,-9
+"253","2016-17","2/18/2017","Pittsburgh",NA,"Florida State",17,80,66,14
+"254","2016-17","2/18/2017","Seton Hall",NA,"Villanova",2,70,92,-22
+"255","2016-17","2/18/2017","Vanderbilt",NA,"South Carolina",21,71,62,9
+"256","2016-17","2/18/2017","Washington",NA,"Arizona",5,68,76,-8
+"257","2016-17","2/16/2017","Michigan",NA,"Wisconsin",11,64,58,6
+"258","2016-17","2/16/2017","Washington State",NA,"Arizona",5,59,78,-19
+"259","2016-17","2/15/2017","North Carolina State",NA,"North Carolina",10,73,97,-24
+"260","2016-17","2/15/2017","Northwestern",NA,"Maryland",23,64,74,-10
+"261","2016-17","2/15/2017","Seton Hall",NA,"Creighton",20,87,81,6
+"262","2016-17","2/15/2017","South Florida",NA,"Cincinnati",18,54,68,-14
+"263","2016-17","2/14/2017","Auburn",NA,"Florida",15,95,114,-19
+"264","2016-17","2/14/2017","Boston College",NA,"Notre Dame",25,76,84,-8
+"265","2016-17","2/13/2017","DePaul",NA,"Villanova",2,62,75,-13
+"266","2016-17","2/13/2017","Syracuse",NA,"Louisville",8,72,76,-4
+"267","2016-17","2/13/2017","Texas Tech",NA,"Baylor",4,84,78,6
+"268","2016-17","2/12/2017","Virginia Tech",NA,"Virginia",12,80,78,2
+"269","2016-17","2/11/2017","Alabama",NA,"Kentucky",15,58,67,-9
+"270","2016-17","2/11/2017","DePaul",NA,"Creighton",23,58,93,-35
+"271","2016-17","2/11/2017","Mississippi State",NA,"South Carolina",19,73,77,-4
+"272","2016-17","2/11/2017","Notre Dame",NA,"Florida State",14,84,72,12
+"273","2016-17","2/11/2017","Providence",NA,"Butler",22,71,65,6
+"274","2016-17","2/11/2017","Southern California",NA,"Oregon",5,70,81,-11
+"275","2016-17","2/11/2017","Texas Tech",NA,"Kansas",3,79,80,-1
+"276","2016-17","2/9/2017","Indiana",NA,"Purdue",16,64,69,-5
+"277","2016-17","2/9/2017","Loyola Marymount",NA,"Gonzaga",1,60,90,-30
+"278","2016-17","2/9/2017","Nebraska",NA,"Wisconsin",7,69,70,-1
+"279","2016-17","2/9/2017","Temple",NA,"Southern Methodist",25,50,66,-16
+"280","2016-17","2/8/2017","Oklahoma",NA,"West Virginia",13,50,61,-11
+"281","2016-17","2/8/2017","Oklahoma State",NA,"Baylor",6,69,72,-3
+"282","2016-17","2/7/2017","Georgia",NA,"Florida",17,60,72,-12
+"283","2016-17","2/7/2017","Marquette",NA,"Butler",22,65,68,-3
+"284","2016-17","2/7/2017","Penn State",NA,"Maryland",21,70,64,6
+"285","2016-17","2/6/2017","Kansas State",NA,"Kansas",3,71,74,-3
+"286","2016-17","2/4/2017","Boston College",NA,"Louisville",6,67,90,-23
+"287","2016-17","2/4/2017","San Diego",NA,"Saint Mary's (CA)",18,27,71,-44
+"288","2016-17","2/4/2017","Syracuse",NA,"Virginia",9,66,62,4
+"289","2016-17","2/4/2017","Washington",NA,"UCLA",11,66,107,-41
+"290","2016-17","2/2/2017","Brigham Young",NA,"Gonzaga",1,75,85,-10
+"291","2016-17","2/2/2017","Oregon State",NA,"Arizona",5,54,71,-17
+"292","2016-17","2/2/2017","Pacific",NA,"Saint Mary's (CA)",18,70,74,-4
+"293","2016-17","2/1/2017","Louisiana State",NA,"South Carolina",19,63,88,-25
+"294","2016-17","2/1/2017","Miami (FL)",NA,"Florida State",15,57,75,-18
+"295","2016-17","2/1/2017","Providence",NA,"Villanova",4,57,66,-9
+"296","2016-17","2/1/2017","Tulsa",NA,"Cincinnati",14,55,57,-2
+"297","2016-17","2/1/2017","Washington State",NA,"UCLA",11,79,95,-16
+"298","2016-17","1/31/2017","Illinois",NA,"Wisconsin",10,43,57,-14
+"299","2016-17","1/31/2017","Iowa State",NA,"West Virginia",7,72,85,-13
+"300","2016-17","1/31/2017","Ohio State",NA,"Maryland",17,71,77,-6
+"301","2016-17","1/29/2017","Nebraska",NA,"Purdue",20,83,80,3
+"302","2016-17","1/29/2017","St. John's (NY)",NA,"Xavier",24,77,82,-5
+"303","2016-17","1/28/2017","Colorado",NA,"Oregon",10,74,65,9
+"304","2016-17","1/28/2017","Georgia Tech",NA,"Notre Dame",14,62,60,2
+"305","2016-17","1/28/2017","Miami (FL)",NA,"North Carolina",9,77,62,15
+"306","2016-17","1/28/2017","Minnesota",NA,"Maryland",22,78,85,-7
+"307","2016-17","1/28/2017","Mississippi",NA,"Baylor",5,75,78,-3
+"308","2016-17","1/28/2017","Missouri",NA,"South Carolina",23,53,63,-10
+"309","2016-17","1/28/2017","Oklahoma",NA,"Florida",25,52,84,-32
+"310","2016-17","1/28/2017","Pepperdine",NA,"Gonzaga",3,49,96,-47
+"311","2016-17","1/28/2017","Santa Clara",NA,"Saint Mary's (CA)",21,59,72,-13
+"312","2016-17","1/28/2017","Syracuse",NA,"Florida State",6,82,72,10
+"313","2016-17","1/28/2017","Wake Forest",NA,"Duke",17,83,85,-2
+"314","2016-17","1/26/2017","Utah",NA,"Oregon",10,67,73,-6
+"315","2016-17","1/25/2017","Georgetown",NA,"Creighton",16,71,51,20
+"316","2016-17","1/25/2017","Georgia Tech",NA,"Florida State",6,78,56,22
+"317","2016-17","1/25/2017","Louisiana State",NA,"Florida",25,71,106,-35
+"318","2016-17","1/25/2017","Seton Hall",NA,"Butler",11,54,61,-7
+"319","2016-17","1/25/2017","Southern California",NA,"UCLA",8,84,76,8
+"320","2016-17","1/24/2017","Marquette",NA,"Villanova",1,74,72,2
+"321","2016-17","1/24/2017","Michigan State",NA,"Purdue",20,73,84,-11
+"322","2016-17","1/24/2017","Pittsburgh",NA,"Louisville",13,51,106,-55
+"323","2016-17","1/24/2017","Tennessee",NA,"Kentucky",4,82,80,2
+"324","2016-17","1/23/2017","Portland",NA,"Gonzaga",3,64,83,-19
+"325","2016-17","1/21/2017","Boston College",NA,"North Carolina",9,82,90,-8
+"326","2016-17","1/21/2017","DePaul",NA,"Butler",13,69,70,-1
+"327","2016-17","1/21/2017","Kansas State",NA,"West Virginia",7,79,75,4
+"328","2016-17","1/21/2017","Minnesota",NA,"Wisconsin",17,76,78,-2
+"329","2016-17","1/21/2017","Texas Christian",NA,"Baylor",6,53,62,-9
+"330","2016-17","1/21/2017","Tulane",NA,"Cincinnati",20,61,78,-17
+"331","2016-17","1/19/2017","Iowa",NA,"Maryland",25,76,84,-8
+"332","2016-17","1/19/2017","Santa Clara",NA,"Gonzaga",4,57,88,-31
+"333","2016-17","1/19/2017","Southern California",NA,"Arizona",14,66,73,-7
+"334","2016-17","1/18/2017","Boston College",NA,"Virginia",16,54,71,-17
+"335","2016-17","1/17/2017","Mississippi State",NA,"Kentucky",5,81,88,-7
+"336","2016-17","1/16/2017","Iowa State",NA,"Kansas",2,72,76,-4
+"337","2016-17","1/15/2017","Colorado",NA,"Southern California",25,68,71,-3
+"338","2016-17","1/15/2017","East Carolina",NA,"Cincinnati",22,46,55,-9
+"339","2016-17","1/14/2017","Clemson",NA,"Virginia",19,73,77,-4
+"340","2016-17","1/14/2017","Penn State",NA,"Minnesota",24,52,50,2
+"341","2016-17","1/14/2017","St. John's (NY)",NA,"Villanova",3,57,70,-13
+"342","2016-17","1/14/2017","Texas",NA,"West Virginia",10,72,74,-2
+"343","2016-17","1/14/2017","Utah",NA,"UCLA",4,82,83,-1
+"344","2016-17","1/14/2017","Virginia Tech",NA,"Notre Dame",20,71,76,-5
+"345","2016-17","1/12/2017","Colorado",NA,"UCLA",4,89,104,-15
+"346","2016-17","1/12/2017","Iowa",NA,"Purdue",17,83,78,5
+"347","2016-17","1/12/2017","Miami (FL)",NA,"Notre Dame",20,62,67,-5
+"348","2016-17","1/12/2017","Portland",NA,"Saint Mary's (CA)",21,33,74,-41
+"349","2016-17","1/12/2017","Utah",NA,"Southern California",25,86,64,22
+"350","2016-17","1/11/2017","Michigan State",NA,"Minnesota",24,65,47,18
+"351","2016-17","1/11/2017","Wake Forest",NA,"North Carolina",11,87,93,-6
+"352","2016-17","1/10/2017","Alabama",NA,"Florida",23,67,80,-13
+"353","2016-17","1/10/2017","Oklahoma",NA,"Kansas",2,70,81,-11
+"354","2016-17","1/10/2017","Texas Tech",NA,"Kansas State",25,66,65,1
+"355","2016-17","1/10/2017","Vanderbilt",NA,"Kentucky",6,81,87,-6
+"356","2016-17","1/7/2017","Georgetown",NA,"Butler",18,76,85,-9
+"357","2016-17","1/7/2017","Georgia Tech",NA,"Louisville",9,50,65,-15
+"358","2016-17","1/7/2017","Houston",NA,"Cincinnati",22,58,67,-9
+"359","2016-17","1/7/2017","Providence",NA,"Creighton",10,64,78,-14
+"360","2016-17","1/7/2017","San Francisco",NA,"Saint Mary's (CA)",19,52,63,-11
+"361","2016-17","1/7/2017","Washington State",NA,"Oregon",15,66,85,-19
+"362","2016-17","1/5/2017","Ohio State",NA,"Purdue",20,75,76,-1
+"363","2016-17","1/5/2017","San Francisco",NA,"Gonzaga",5,80,95,-15
+"364","2016-17","1/4/2017","North Carolina State",NA,"Virginia Tech",21,104,78,26
+"365","2016-17","1/4/2017","Pittsburgh",NA,"Virginia",11,88,76,12
+"366","2016-17","1/4/2017","St. John's (NY)",NA,"Creighton",10,72,85,-13
+"367","2016-17","1/4/2017","Washington",NA,"Oregon",15,61,83,-22
+"368","2016-17","1/3/2017","Clemson",NA,"North Carolina",14,86,89,-3
+"369","2016-17","1/3/2017","Texas Tech",NA,"West Virginia",7,77,76,1
+"370","2016-17","1/1/2017","Stanford",NA,"Arizona",18,52,91,-39
+"371","2016-17","12/31/2016","Georgetown",NA,"Xavier",17,76,81,-5
+"372","2016-17","12/31/2016","Georgia Tech",NA,"North Carolina",9,75,63,12
+"373","2016-17","12/31/2016","Pacific",NA,"Gonzaga",7,61,81,-20
+"374","2016-17","12/31/2016","Pittsburgh",NA,"Notre Dame",24,77,78,-1
+"375","2016-17","12/31/2016","Virginia Tech",NA,"Duke",5,89,75,14
+"376","2016-17","12/30/2016","University of California",NA,"Arizona",18,62,67,-5
+"377","2016-17","12/30/2016","Oklahoma",NA,"Baylor",4,50,76,-26
+"378","2016-17","12/30/2016","Oklahoma State",NA,"West Virginia",11,75,92,-17
+"379","2016-17","12/30/2016","Oregon State",NA,"UCLA",2,63,76,-13
+"380","2016-17","12/30/2016","Texas Christian",NA,"Kansas",3,80,86,-6
+"381","2016-17","12/29/2016","Arkansas",NA,"Florida",25,72,81,-9
+"382","2016-17","12/29/2016","Loyola Marymount",NA,"Saint Mary's (CA)",19,60,72,-12
+"383","2016-17","12/29/2016","Mississippi",NA,"Kentucky",8,76,99,-23
+"384","2016-17","12/29/2016","St. John's (NY)",NA,"Butler",13,76,73,3
+"385","2016-17","12/28/2016","Oregon State",NA,"Southern California",22,63,70,-7
+"386","2016-17","12/28/2016","Temple",NA,"Cincinnati",23,50,56,-6
+"387","2016-17","12/22/2016","Nevada-Las Vegas",NA,"Kansas",3,53,71,-18
+"388","2016-17","12/21/2016","University of California",NA,"Virginia",12,52,56,-4
+"389","2016-17","12/20/2016","Arizona State",NA,"Creighton",9,85,96,-11
+"390","2016-17","12/18/2016","Tennessee",NA,"Gonzaga",8,76,86,-10
+"391","2016-17","12/17/2016","South Florida",NA,"South Carolina",16,66,77,-11
+"392","2016-17","12/11/2016","Florida State",NA,"Florida",21,83,78,5
+"393","2016-17","12/10/2016","Marquette",NA,"Wisconsin",17,84,93,-9
+"394","2016-17","12/10/2016","Missouri",NA,"Arizona",20,60,79,-19
+"395","2016-17","12/10/2016","Nevada-Las Vegas",NA,"Duke",5,45,94,-49
+"396","2016-17","12/8/2016","Iowa",NA,"Iowa State",25,78,64,14
+"397","2016-17","12/7/2016","Colorado",NA,"Xavier",13,68,66,2
+"398","2016-17","12/7/2016","Indiana State",NA,"Butler",16,72,71,1
+"399","2016-17","12/7/2016","Nebraska",NA,"Creighton",10,62,77,-15
+"400","2016-17","12/3/2016","Grand Canyon",NA,"Louisville",14,70,79,-9
+"401","2016-17","12/3/2016","Providence",NA,"Rhode Island",21,63,60,3
+"402","2016-17","12/1/2016","North Florida",NA,"Florida",24,60,91,-31
+"403","2016-17","11/30/2016","Stanford",NA,"Saint Mary's (CA)",12,51,66,-15
+"404","2016-17","11/29/2016","Pennsylvania",NA,"Villanova",2,57,82,-25
+"405","2016-17","11/29/2016","Valparaiso",NA,"Rhode Island",21,65,62,3
+"406","2016-17","11/28/2016","Utah",NA,"Butler",18,59,68,-9
+"407","2016-17","11/23/2016","South Carolina",NA,"Michigan",25,61,46,15
+"408","2016-17","11/22/2016","Fort Wayne",NA,"Indiana",3,71,68,3
+"409","2016-17","11/19/2016","Dayton",NA,"Saint Mary's (CA)",17,57,61,-4
+"410","2016-17","11/18/2016","Hawaii",NA,"North Carolina",5,68,83,-15
+"411","2016-17","11/15/2016","Baylor",NA,"Oregon",4,66,49,17
+"412","2016-17","11/11/2016","North Carolina-Greensboro",NA,"Virginia",8,51,76,-25
+"413","2015-16","3/6/2016","Cincinnati",NA,"Southern Methodist",24,61,54,7
+"414","2015-16","3/5/2016","Arizona State",NA,"University of California",25,65,68,-3
+"415","2015-16","3/5/2016","Michigan",NA,"Iowa",16,61,71,-10
+"416","2015-16","3/5/2016","Southern California",NA,"Oregon",9,66,76,-10
+"417","2015-16","3/5/2016","Texas Christian",NA,"Oklahoma",6,67,75,-8
+"418","2015-16","3/5/2016","Virginia Tech",NA,"Miami (FL)",7,77,62,15
+"419","2015-16","3/4/2016","Oklahoma State",NA,"Texas",23,50,62,-12
+"420","2015-16","3/2/2016","Notre Dame",NA,"Miami (FL)",7,50,68,-18
+"421","2015-16","3/2/2016","Rutgers",NA,"Michigan State",2,66,97,-31
+"422","2015-16","3/2/2016","UCLA",NA,"Oregon",9,68,76,-8
+"423","2015-16","3/1/2016","Auburn",NA,"Texas A&M",20,63,81,-18
+"424","2015-16","3/1/2016","Clemson",NA,"Virginia",4,57,64,-7
+"425","2015-16","3/1/2016","Florida",NA,"Kentucky",22,79,88,-9
+"426","2015-16","3/1/2016","Nebraska",NA,"Purdue",15,62,81,-19
+"427","2015-16","2/28/2016","Ohio State",NA,"Iowa",8,68,64,4
+"428","2015-16","2/28/2016","Pittsburgh",NA,"Duke",15,76,62,14
+"429","2015-16","2/28/2016","Seton Hall",NA,"Xavier",5,90,81,9
+"430","2015-16","2/27/2016","Florida State",NA,"Notre Dame",23,77,56,21
+"431","2015-16","2/27/2016","Marquette",NA,"Villanova",1,79,89,-10
+"432","2015-16","2/27/2016","Missouri",NA,"Texas A&M",21,69,84,-15
+"433","2015-16","2/27/2016","Oklahoma State",NA,"West Virginia",14,56,70,-14
+"434","2015-16","2/27/2016","Texas Christian",NA,"Baylor",19,71,86,-15
+"435","2015-16","2/27/2016","Vanderbilt",NA,"Kentucky",16,74,62,12
+"436","2015-16","2/25/2016","Illinois",NA,"Indiana",18,47,74,-27
+"437","2015-16","2/25/2016","Memphis",NA,"Southern Methodist",24,62,69,-7
+"438","2015-16","2/24/2016","Colorado",NA,"Arizona",8,75,72,3
+"439","2015-16","2/24/2016","North Carolina State",NA,"North Carolina",7,68,80,-12
+"440","2015-16","2/24/2016","Pittsburgh",NA,"Louisville",11,60,67,-7
+"441","2015-16","2/24/2016","Wake Forest",NA,"Notre Dame",23,58,69,-11
+"442","2015-16","2/23/2016","Ohio State",NA,"Michigan State",6,62,81,-19
+"443","2015-16","2/22/2016","Kansas State",NA,"Texas",25,70,71,-1
+"444","2015-16","2/20/2016","Georgetown",NA,"Xavier",8,70,88,-18
+"445","2015-16","2/20/2016","Georgia Tech",NA,"Notre Dame",19,63,62,1
+"446","2015-16","2/20/2016","Kansas State",NA,"Kansas",2,63,72,-9
+"447","2015-16","2/20/2016","Texas A&M",NA,"Kentucky",14,79,77,2
+"448","2015-16","2/18/2016","Connecticut",NA,"Southern Methodist",21,68,62,6
+"449","2015-16","2/18/2016","Minnesota",NA,"Maryland",6,68,63,5
+"450","2015-16","2/17/2016","Penn State",NA,"Iowa",4,79,75,4
+"451","2015-16","2/17/2016","Saint Joseph's",NA,"Dayton",15,79,70,9
+"452","2015-16","2/17/2016","Temple",NA,"Villanova",1,67,83,-16
+"453","2015-16","2/17/2016","Texas Tech",NA,"Oklahoma",3,65,63,2
+"454","2015-16","2/14/2016","Florida State",NA,"Miami (FL)",12,65,67,-2
+"455","2015-16","2/13/2016","Butler",NA,"Xavier",5,57,74,-17
+"456","2015-16","2/13/2016","Duke",NA,"Virginia",7,63,62,1
+"457","2015-16","2/13/2016","Louisiana State",NA,"Texas A&M",15,76,71,5
+"458","2015-16","2/13/2016","Michigan",NA,"Purdue",18,61,56,5
+"459","2015-16","2/13/2016","Notre Dame",NA,"Louisville",13,71,66,5
+"460","2015-16","2/13/2016","South Carolina",NA,"Kentucky",22,62,89,-27
+"461","2015-16","2/13/2016","Stanford",NA,"Oregon",11,76,72,4
+"462","2015-16","2/12/2016","Arizona State",NA,"Southern California",23,74,67,7
+"463","2015-16","2/12/2016","Rhode Island",NA,"Dayton",19,66,68,-2
+"464","2015-16","2/11/2016","University of California",NA,"Oregon",11,83,63,20
+"465","2015-16","2/11/2016","Indiana",NA,"Iowa",4,85,78,7
+"466","2015-16","2/10/2016","Alabama",NA,"Texas A&M",15,63,62,1
+"467","2015-16","2/10/2016","Kansas State",NA,"Baylor",21,72,82,-10
+"468","2015-16","2/10/2016","Marquette",NA,"Providence",20,96,91,5
+"469","2015-16","2/10/2016","Texas Tech",NA,"Iowa State",14,85,82,3
+"470","2015-16","2/9/2016","Boston College",NA,"North Carolina",9,65,68,-3
+"471","2015-16","2/9/2016","Creighton",NA,"Xavier",5,70,56,14
+"472","2015-16","2/9/2016","DePaul",NA,"Villanova",1,59,86,-27
+"473","2015-16","2/9/2016","Drake",NA,"Wichita State",25,48,74,-26
+"474","2015-16","2/8/2016","Duke",NA,"Louisville",13,72,65,7
+"475","2015-16","2/7/2016","Georgia Tech",NA,"Miami (FL)",17,68,75,-7
+"476","2015-16","2/7/2016","Illinois",NA,"Iowa",5,65,77,-12
+"477","2015-16","2/7/2016","South Florida",NA,"Southern Methodist",12,58,92,-34
+"478","2015-16","2/6/2016","George Mason",NA,"Dayton",24,64,98,-34
+"479","2015-16","2/6/2016","Illinois State",NA,"Wichita State",21,58,53,5
+"480","2015-16","2/6/2016","Kansas State",NA,"Oklahoma",1,80,69,11
+"481","2015-16","2/6/2016","Michigan",NA,"Michigan State",10,73,89,-16
+"482","2015-16","2/6/2016","Notre Dame",NA,"North Carolina",2,80,76,4
+"483","2015-16","2/6/2016","Oklahoma State",NA,"Iowa State",13,59,64,-5
+"484","2015-16","2/6/2016","Penn State",NA,"Indiana",22,68,63,5
+"485","2015-16","2/6/2016","Pittsburgh",NA,"Virginia",9,50,64,-14
+"486","2015-16","2/6/2016","Texas Christian",NA,"Kansas",7,56,75,-19
+"487","2015-16","2/6/2016","Washington",NA,"Arizona",23,72,77,-5
+"488","2015-16","2/4/2016","Vanderbilt",NA,"Texas A&M",8,77,60,17
+"489","2015-16","2/3/2016","Nebraska",NA,"Maryland",4,65,70,-5
+"490","2015-16","2/3/2016","Washington State",NA,"Arizona",23,64,79,-15
+"491","2015-16","2/2/2016","DePaul",NA,"Providence",11,77,70,7
+"492","2015-16","2/2/2016","Georgia",NA,"South Carolina",25,69,56,13
+"493","2015-16","2/2/2016","Michigan",NA,"Indiana",22,67,80,-13
+"494","2015-16","2/2/2016","Tennessee",NA,"Kentucky",20,84,77,7
+"495","2015-16","2/1/2016","Houston",NA,"Southern Methodist",12,71,68,3
+"496","2015-16","1/31/2016","Arizona State",NA,"Oregon",23,74,91,-17
+"497","2015-16","1/31/2016","Evansville",NA,"Wichita State",22,65,78,-13
+"498","2015-16","1/31/2016","Ohio State",NA,"Maryland",8,61,66,-5
+"499","2015-16","1/31/2016","St. John's (NY)",NA,"Villanova",6,53,68,-15
+"500","2015-16","1/30/2016","DePaul",NA,"Xavier",7,65,86,-21
+"501","2015-16","1/30/2016","Florida",NA,"West Virginia",9,88,71,17
+"502","2015-16","1/30/2016","Georgetown",NA,"Providence",10,69,73,-4
+"503","2015-16","1/30/2016","Louisiana State",NA,"Oklahoma",1,75,77,-2
+"504","2015-16","1/30/2016","North Carolina State",NA,"Miami (FL)",15,85,69,16
+"505","2015-16","1/28/2016","Northwestern",NA,"Michigan State",12,45,76,-31
+"506","2015-16","1/28/2016","Syracuse",NA,"Notre Dame",25,81,66,15
+"507","2015-16","1/27/2016","Arkansas",NA,"Texas A&M",5,74,71,3
+"508","2015-16","1/27/2016","Minnesota",NA,"Purdue",21,64,68,-4
+"509","2015-16","1/27/2016","Oklahoma State",NA,"Baylor",17,65,69,-4
+"510","2015-16","1/27/2016","Virginia Tech",NA,"Louisville",16,83,91,-8
+"511","2015-16","1/26/2016","Wake Forest",NA,"Virginia",11,71,72,-1
+"512","2015-16","1/26/2016","Wisconsin",NA,"Indiana",19,82,79,3
+"513","2015-16","1/24/2016","Oregon State",NA,"Southern California",21,85,70,15
+"514","2015-16","1/24/2016","Temple",NA,"Southern Methodist",8,89,80,9
+"515","2015-16","1/24/2016","Virginia Tech",NA,"North Carolina",2,70,75,-5
+"516","2015-16","1/23/2016","University of California",NA,"Arizona",12,74,73,1
+"517","2015-16","1/23/2016","Creighton",NA,"Butler",18,72,64,8
+"518","2015-16","1/23/2016","Georgia Tech",NA,"Louisville",17,71,75,-4
+"519","2015-16","1/23/2016","North Carolina State",NA,"Duke",20,78,88,-10
+"520","2015-16","1/23/2016","Tennessee",NA,"South Carolina",24,78,69,9
+"521","2015-16","1/23/2016","Texas Christian",NA,"Iowa State",19,60,73,-13
+"522","2015-16","1/23/2016","Texas Tech",NA,"West Virginia",6,76,80,-4
+"523","2015-16","1/21/2016","Arkansas",NA,"Kentucky",23,66,80,-14
+"524","2015-16","1/21/2016","Oregon",NA,"Southern California",21,89,81,8
+"525","2015-16","1/21/2016","Rutgers",NA,"Iowa",9,76,90,-14
+"526","2015-16","1/21/2016","Stanford",NA,"Arizona",12,57,71,-14
+"527","2015-16","1/20/2016","Boston College",NA,"Miami (FL)",15,53,67,-14
+"528","2015-16","1/20/2016","Seton Hall",NA,"Villanova",4,71,72,-1
+"529","2015-16","1/19/2016","Mississippi",NA,"South Carolina",24,74,77,-3
+"530","2015-16","1/19/2016","Oklahoma State",NA,"Kansas",3,86,67,19
+"531","2015-16","1/18/2016","Rutgers",NA,"Purdue",22,57,107,-50
+"532","2015-16","1/17/2016","Florida State",NA,"Virginia",13,69,62,7
+"533","2015-16","1/17/2016","Tulane",NA,"Southern Methodist",10,45,60,-15
+"534","2015-16","1/17/2016","Wisconsin",NA,"Michigan State",4,77,76,1
+"535","2015-16","1/16/2016","Auburn",NA,"Kentucky",14,75,70,5
+"536","2015-16","1/16/2016","Clemson",NA,"Miami (FL)",8,76,65,11
+"537","2015-16","1/16/2016","Georgetown",NA,"Villanova",6,50,55,-5
+"538","2015-16","1/16/2016","Georgia",NA,"Texas A&M",15,45,79,-34
+"539","2015-16","1/16/2016","Kansas State",NA,"Iowa State",17,63,76,-13
+"540","2015-16","1/16/2016","Marquette",NA,"Xavier",7,66,74,-8
+"541","2015-16","1/16/2016","Texas Tech",NA,"Baylor",22,60,63,-3
+"542","2015-16","1/13/2016","Alabama",NA,"South Carolina",19,73,50,23
+"543","2015-16","1/13/2016","Clemson",NA,"Duke",9,68,63,5
+"544","2015-16","1/13/2016","East Carolina",NA,"Southern Methodist",10,55,79,-24
+"545","2015-16","1/13/2016","Oklahoma State",NA,"Oklahoma",2,72,74,-2
+"546","2015-16","1/12/2016","Creighton",NA,"Providence",12,48,50,-2
+"547","2015-16","1/12/2016","Michigan",NA,"Maryland",3,70,67,3
+"548","2015-16","1/12/2016","Texas",NA,"Iowa State",17,94,91,3
+"549","2015-16","1/10/2016","Clemson",NA,"Louisville",16,66,62,4
+"550","2015-16","1/10/2016","Illinois",NA,"Purdue",20,84,70,14
+"551","2015-16","1/10/2016","Penn State",NA,"Michigan State",5,65,92,-27
+"552","2015-16","1/9/2016","Alabama",NA,"Kentucky",9,61,77,-16
+"553","2015-16","1/9/2016","Georgia Tech",NA,"Virginia",4,68,64,4
+"554","2015-16","1/9/2016","La Salle",NA,"Dayton",25,61,57,4
+"555","2015-16","1/9/2016","Notre Dame",NA,"Pittsburgh",24,82,86,-4
+"556","2015-16","1/9/2016","Southern California",NA,"Arizona",7,103,101,2
+"557","2015-16","1/9/2016","Syracuse",NA,"North Carolina",6,73,84,-11
+"558","2015-16","1/9/2016","Tennessee",NA,"Texas A&M",21,88,92,-4
+"559","2015-16","1/9/2016","Texas Tech",NA,"Kansas",1,59,69,-10
+"560","2015-16","1/9/2016","Wisconsin",NA,"Maryland",3,60,63,-3
+"561","2015-16","1/7/2016","North Carolina State",NA,"Louisville",16,72,77,-5
+"562","2015-16","1/7/2016","UCLA",NA,"Arizona",7,87,84,3
+"563","2015-16","1/6/2016","Mississippi State",NA,"Texas A&M",21,60,61,-1
+"564","2015-16","1/6/2016","St. John's (NY)",NA,"Xavier",10,66,74,-8
+"565","2015-16","1/6/2016","Wake Forest",NA,"Duke",14,75,91,-16
+"566","2015-16","1/5/2016","Auburn",NA,"South Carolina",22,69,81,-12
+"567","2015-16","1/5/2016","DePaul",NA,"Butler",18,72,77,-5
+"568","2015-16","1/5/2016","Louisiana State",NA,"Kentucky",9,85,67,18
+"569","2015-16","1/4/2016","Florida State",NA,"North Carolina",6,90,106,-16
+"570","2015-16","1/4/2016","Texas Christian",NA,"West Virginia",17,87,95,-8
+"571","2015-16","1/4/2016","Virginia Tech",NA,"Virginia",4,70,68,2
+"572","2015-16","1/3/2016","Arizona State",NA,"Arizona",8,82,94,-12
+"573","2015-16","1/3/2016","University of California",NA,"Utah",21,71,58,13
+"574","2015-16","1/3/2016","Washington State",NA,"UCLA",25,85,78,7
+"575","2015-16","1/2/2016","Boston College",NA,"Duke",15,64,81,-17
+"576","2015-16","1/2/2016","Creighton",NA,"Villanova",16,71,85,-14
+"577","2015-16","1/2/2016","Kansas State",NA,"West Virginia",19,83,87,-4
+"578","2015-16","1/2/2016","Minnesota",NA,"Michigan State",1,61,69,-8
+"579","2015-16","1/2/2016","Northwestern",NA,"Maryland",4,59,72,-13
+"580","2015-16","1/1/2016","Stanford",NA,"Utah",21,70,68,2
+"581","2015-16","1/1/2016","Washington",NA,"UCLA",25,96,93,3
+"582","2015-16","12/30/2015","Virginia Tech",NA,"West Virginia",19,63,88,-25
+"583","2015-16","12/29/2015","Iowa",NA,"Michigan State",1,83,70,13
+"584","2015-16","12/29/2015","Tulsa",NA,"Southern Methodist",17,69,81,-12
+"585","2015-16","12/29/2015","Wisconsin",NA,"Purdue",14,55,61,-6
+"586","2015-16","12/23/2015","Hawaii",NA,"Oklahoma",3,81,84,-3
+"587","2015-16","12/22/2015","DePaul",NA,"George Washington",20,82,61,21
+"588","2015-16","12/22/2015","La Salle",NA,"Miami (FL)",13,49,95,-46
+"589","2015-16","12/22/2015","San Diego State",NA,"Kansas",2,57,70,-13
+"590","2015-16","12/22/2015","Wake Forest",NA,"Xavier",6,70,78,-8
+"591","2015-16","12/21/2015","Massachusetts",NA,"Providence",10,66,90,-24
+"592","2015-16","12/19/2015","Northeastern",NA,"Michigan State",1,58,78,-20
+"593","2015-16","12/19/2015","Virginia Commonwealth",NA,"Cincinnati",23,63,69,-6
+"594","2015-16","12/12/2015","Boise State",NA,"Oregon",24,74,72,2
+"595","2015-16","12/12/2015","Texas",NA,"North Carolina",3,84,82,2
+"596","2015-16","12/12/2015","Wichita State",NA,"Utah",25,67,50,17
+"597","2015-16","12/5/2015","Arizona State",NA,"Texas A&M",18,67,54,13
+"598","2015-16","12/5/2015","Georgetown",NA,"Syracuse",14,79,72,7
+"599","2015-16","12/5/2015","Rhode Island",NA,"Providence",23,72,74,-2
+"600","2015-16","12/3/2015","UCLA",NA,"Kentucky",1,87,77,10
+"601","2015-16","12/2/2015","Texas Christian",NA,"Southern Methodist",22,70,75,-5
+"602","2015-16","12/2/2015","Washington State",NA,"Gonzaga",13,60,69,-9
+"603","2015-16","12/1/2015","Nebraska",NA,"Miami (FL)",21,72,77,-5
+"604","2015-16","12/1/2015","Ohio State",NA,"Virginia",10,58,64,-6
+"605","2015-16","12/1/2015","Pittsburgh",NA,"Purdue",11,59,72,-13
+"606","2015-16","12/1/2015","Saint Joseph's",NA,"Villanova",8,72,86,-14
+"607","2015-16","11/21/2015","Northern Iowa",NA,"North Carolina",1,71,67,4
+"608","2015-16","11/17/2015","Memphis",NA,"Oklahoma",8,78,84,-6
+"609","2015-16","11/17/2015","Tulsa",NA,"Wichita State",9,77,67,10
+"610","2015-16","11/16/2015","George Washington",NA,"Virginia",6,73,68,5
