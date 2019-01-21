@@ -5,7 +5,7 @@
 library(data.table)
 
 odds = data.table()
-for(year in c("2017-18","2016-17")){
+for(year in c("2017-18","2016-17","2015-16")){
   next_year = data.table(read.csv(paste0("./data/odds",year,".csv")
                                    ,stringsAsFactors = FALSE,header = TRUE
                                    ,fileEncoding = "UTF-8-BOM"))
@@ -16,12 +16,12 @@ for(year in c("2017-18","2016-17")){
 
 # Change "pk" to 0 then set Close as numeric
 odds = odds[Close != "NL",]
-odds[Close == "pk",Close := 0]
+odds[Close == "pk",Close := "0"]
 odds[,Close := as.numeric(Close)]
 
 # Separate home and away as 2 separate DF's
-V = odds[Rot%%2 == 1,][,VH := NULL]
-H = odds[Rot%%2 == 0,][,VH := NULL]
+V = odds[Rot%%2 == 1,]
+H = odds[Rot%%2 == 0,]
 
 # Rename team columns as home and away
 colnames(V)[3] = "Away"
@@ -33,4 +33,12 @@ setkey(V,Date,Rot,Season) #set keys to join on
 setkey(H,Date,Rot,Season)
 odds = H[V] #inner join
 
-odds[,Home_Spread := ifelse(Close > i.Close,-1*Close,i.Close)]
+#restructure date column
+odds[,Date := paste0(substr(Date,1,nchar(Date)-2),"/"
+                     ,substr(Date,nchar(Date)-1,nchar(Date)),"/20"
+                     ,ifelse(nchar(Date) == 4,substr(Season,3,4)
+                             ,substr(Season,6,7)))
+     ]
+
+odds[,Home_Spread := ifelse(Close < i.Close,-1*Close,i.Close)]
+odds = odds[complete.cases(odds),]
