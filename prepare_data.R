@@ -7,27 +7,36 @@ library(fuzzyjoin)
 # to be usable for this analysis. 
 
 odds = data.table()
-for(year in c("2017-18","2016-17","2015-16")){
+for(year in c("2017-18","2016-17","2015-16","2014-15"
+              ,"2013-14","2012-13","2011-12","2010-11"
+              ,"2009-10","2008-09","2007-08")){
   next_year = data.table(read.csv(paste0("./data/odds",year,".csv")
                                    ,stringsAsFactors = FALSE,header = TRUE
                                    ,fileEncoding = "UTF-8-BOM"))
-  next_year = next_year[,c("Date","Rot","Team","Close")]
+  next_year = next_year[,c("Date","Rot","Team","Close","VH")]
   next_year[,Season := year]
   odds = rbind(odds,next_year)
 }
 
+# Change NL to a number too big for lines but too small for O/U
 # Change "pk" to 0 then set Close as numeric
-odds = odds[Close != "NL",]
+odds[Close == "NL",Close := "50.1"] 
 odds[Close == "pk",Close := "0"]
 odds[,Close := as.numeric(Close)]
 
 #fix a few naming inconsistencies
 odds[Team == "Denver",Team:="DenverU"]
 odds[Team == "Memphis",Team:="MemphisU"]
+odds[Team == "NCCharlotte", Team:="CharlotteU"]
+odds[Team == "SoMississippi", Team:="SouthernMiss"]
 
-# Separate home and away as 2 separate DF's
-V = odds[Rot%%2 == 1,]
-H = odds[Rot%%2 == 0,]
+# Separate home and away as 2 separate DF's (will get rid of neutral court)
+V = odds[VH == "V",]
+H = odds[VH == "H",]
+
+#now get rid of nunnecessary VH columns
+V[,VH := NULL]
+H[,VH := NULL]
 
 # Rename team columns as home and away
 colnames(V)[3] = "Away"
@@ -48,6 +57,7 @@ odds[,Date := paste0(substr(Date,1,nchar(Date)-2),"/"
 odds[,Date := gsub("/0","/",Date)]
 
 odds[,Home_Spread := ifelse(Close < i.Close,-1*Close,i.Close)]
+odds = odds[Home_Spread != 50.1,]
 odds = odds[complete.cases(odds),]
 
 write.csv(odds,"./data/odds.csv",row.names = FALSE)
@@ -61,7 +71,7 @@ scores = read.csv("https://query.data.world/s/ifvsddtb76qbf2i7f4ezmv6uutqtnj"
 scores = data.table(scores)
 
 #filter by strategy criteria
-scores = scores[!is.na(Rk..1) & is.na(Rk.) & Year >= "2015-16"
+scores = scores[!is.na(Rk..1) & is.na(Rk.) & Year >= "2007-08"
                 ,c("Year","Date","Schl","Rk.","Opp","Rk..1","PTS","OPP","MOV")]
 
 write.csv(scores,"./data/scores.csv",row.names = FALSE)
@@ -75,7 +85,12 @@ confs = data.table(confs)
 colnames(confs) = gsub("conf","conference",colnames(confs))
 
 #filter out only relevant years and columns
-confs = confs[season >= "2015-16",c("school","conference","season")]
+confs = confs[season >= "2007-08",c("school","conference","season")]
+
+#manually add missing teams as needed
+siu = confs[school == "murray-state"] #SIU edwardsville
+siu[,school := "siu-edwardsville"]
+confs = rbind(confs,siu)
 
 #add 2017-2018 to the dataset since it is missing
 confs18 = confs[season == "2016-17",]
@@ -107,4 +122,4 @@ join_tbl = stringdist_left_join(join_tbl,odds_teams
 
 #write output of join_tbl to a csv so I can manually investigate and make any
 #necessary changes by hand
-#write.csv(join_tbl,"./data/join_table.csv") #comment out to preserve the table
+write.csv(join_tbl,"./data/join_table.csv",row.names = FALSE) #comment out to preserve the table
